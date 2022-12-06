@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Advent Of Code](https://github.com/byronboots/AdventOfCode2022)
 - 🌱 I’m currently learning at Oregon State University in the Computer Science Post Bacc Program
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/byronboots/) is the best way to get in touch!
