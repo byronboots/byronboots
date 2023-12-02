@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub
 
+[![wakatime](https://wakatime.com/badge/user/018beb63-417d-4d04-948e-db38fbe7855c.svg)](https://wakatime.com/@018beb63-417d-4d04-948e-db38fbe7855c)
+
 <!--
 **byronboots/byronboots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
